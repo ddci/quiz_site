@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>Тестування</title>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+ <link href="assets/css/bootstrap.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="sweet-alert.css">
+  <link rel="stylesheet" href="quiz.css">
+    
+  <style>
+    #quiz {
+      height: 600px;
+      display: block;
+    }
+      #navbar{
+          font-family: 'Open Sans', sans-serif;  
+      }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-default" id = "navbar">
+      <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href=index.html>ДонНТУ</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li><a href=index.html>Головна</a></li>
+              <li><a href="learn.html">Навчальні матеріали</a></li>
+              <li class="active"><a href="quiz.html">Тестування</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="index.html#services-sec">Контакти <span class="sr-only">(current)</span></a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+  <div class="container-fluid">
+    <div id="quiz"></div>
+  </div>
+  <script src="assets/js/jquery-1.11.2.js"></script>
+  <script src="assets/js/bootstrap.js"></script>
+  <script src="sweet-alert.min.js"></script>
+  <script src="quiz.js"></script>
+  <script>
+    $(function() {
+      $('#quiz').quiz("ukranian.json");
+    });
+  </script>
+</body>
+    
+</html>

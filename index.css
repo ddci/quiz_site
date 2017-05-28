@@ -1,0 +1,149 @@
+h1 {
+  /*margin-left: 100px;*/
+  /*Main header text colour*/
+  color: #00467f;
+}
+
+h2 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 0px;
+    margin:0;
+    /*page background colour - */
+    background-color: #f3f3f3;
+    height: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+header {
+    width: 150%;
+    margin-left: -22%;
+}
+
+input {
+    margin: 8px;
+}
+
+button {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 2px 2px 2px #d8d8d8;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #00467f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    box-shadow: 2px 2px 2px #d8d8d8;
+    background-color: #0082a7;
+    color: white;
+}
+
+.questions {
+  -moz-box-shadow: 0px 3px 8px #d8d8d8;
+  -webkit-box-shadow: 0px 3px 8px #d8d8d8;
+  box-shadow: 0px 3px 8px #d8d8d8;
+  background-color: white;
+  margin-top: 20px;
+  /*margin-left: 100px;
+  margin-right: 100px;*/
+  padding: 15px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.results {
+    padding: 10px;
+    -moz-box-shadow: 0px 3px 8px #d8d8d8;
+    -webkit-box-shadow: 0px 3px 8px #d8d8d8;
+    box-shadow: 0px 3px 8px #d8d8d8;
+    background-color: white;
+    margin-top: 20px;
+    display: none;
+}
+
+.subresults {
+    display: none;
+}
+
+.red{
+    color: #ff0e0e;
+    font-weight: bold;
+}
+
+.orange{
+    color: #ff6c04;
+    font-weight: bold;
+}
+
+.yellow {
+    color: #ffc107;
+    font-weight: bold;
+}
+
+.green {
+    color: #00c121;
+    font-weight: bold;
+}
+div.w3-progress-container.w3-light-blue {
+    margin-top: 10px;
+}

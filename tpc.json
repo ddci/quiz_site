@@ -1,0 +1,138 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "М.Фарадей",
+        "Х.Ерстед",
+        "А.Єйнштейн",
+        "Н.Тесла"
+      ],
+      "correct": {
+        "index": 0,
+        "text": " <a target=\"_blank\" href =\"learn.html#sec1\">Відкриття </a> у 1820 р. данським фізиком <a target=\"_blank\" href=\"https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D1%81_%D0%9A%D1%80%D1%96%D1%81%D1%82%D1%96%D0%B0%D0%BD_%D0%95%D1%80%D1%81%D1%82%D0%B5%D0%B4\">X . Ерстедом</a> зв’язку магнітного поля з електричним струмом спонукало багатьохучених розширити дослідження явищ, пов’язаних з магнітним полем. Маючи широту мислення, визначний фізик і дослідник <a href=\"https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%B0%D0%B4%D0%B5%D0%B9,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB\" >М. Фарадей</a> передбачив можливий зворотний зв’ язокмагнітного поля і електричного струму, коли поява магнітного поля спричинює виникнення електричного струму."
+      },
+	   
+      "image": "img/img1.jpg",
+      "number": 1,
+      "prompt": "Кто іх вчених домігся того, що в замкнутих провідниках, які знаходилися в змінному магнітному полі, виникав електричний струм?"
+    },
+    {
+      "answers": [
+        "А",
+        "Б",
+        "В"
+      ],
+      "correct": {
+        "index": 2,
+        "text": " <a target=\"_blank\" href = \"learn.html#sec2\"> Провідник</a> , навколо якого існуємагнітне поле. <a target=\"_blank\" href = \"https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D0%B3%D0%B2%D0%B8%D0%BD%D1%82%D0%B0\">Правило гвинта</a> — правило для визначення напряму вектора магнітної індукції залежно від напряму електричного струму, який збуджує магнітне поле. Правило гвинта формулюється так: якщо напрям струму збігається з напрямом поступального руху гвинта (з правою різьбою)."
+      },
+      "image": "img/img2.jpg",
+      "number": 2,
+      "prompt": "На якому з малюнків правильно показано напрямок ліній індукції магнітного поля, створеного провідником зі струмом?"
+    },
+    {
+      "answers": [
+        "Від сили струму",
+        "Від погоди",
+        "Від сили Лоуренса",
+        "Від середовища",
+        "Від середовища та сили струму"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Вектор магнітної <a href=\"https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D0%B0_%D1%96%D0%BD%D0%B4%D1%83%D0%BA%D1%86%D1%96%D1%8F\">індукції</a> в однорідному середовищі відрізняється від індукції магнітного поля 0 в тій же частині простору у вакуумі. Отже, значення магнітної <a href=\"https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D0%B0_%D1%96%D0%BD%D0%B4%D1%83%D0%BA%D1%86%D1%96%D1%8F\">індукції</a> залежить від <a href = \"learn.html#sec2\">середовища</a>, в якому існує <a href=\"https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5\">магнітне поле</a>, тобто магнітна індукція характеризує магнітне поле з урахуванням дії цього середовища."
+      },
+      "image": "img/img3.png",
+      "number": 3,
+      "prompt": "Від чого залежить значення магнітної індукції?"
+    },
+    {
+      "answers": [
+        "Магнітне поле",
+        "Магнітне коло",
+        "Магнітний струм"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "<a target=\"_blank\" href = \"learn.html#sec4\">Магнітним колом </a>називають сукупність феромагнітних елементів, призначену для підсилення, направляння та концентрації магнітного потоку, всі електромагнітні явища в якій можуть бути описані за допомогою понять магніторушійної сили, магнітної напруги та магнітного потоку."
+      },
+      "image": "",
+      "number": 4,
+      "prompt": "Сукупністю феромагнітних елементів, призначену для підсилення, направляння та концентрації магнітного потоку, всі електромагнітні явища в якій можуть бути описані за допомогою понять магніторушійної сили, магнітної напруги та магнітного потоку називають -"
+    },
+    {
+      "answers": [
+        "А",
+        "Б",
+        "В"
+      ],
+      "correct": {
+        "index": ,
+        "text": "<a target=\"_blank\" href = \"learn.html#sec5\">Зако́н О́ма</a> — це твердження про пропорційність сили струму в провіднику прикладеній напрузі. Закон Ома справедливий для металів і напівпровідників при не надто великих прикладених напругах."
+      },
+      "image": "img/img5.jpg",
+      "number": 5,
+      "prompt": "Вкажіть закон Ома"
+    },
+    {
+      "answers": [
+        "The bottom 20 percent",
+        "The middle 20 percent",
+        "The top 1 percent",
+        "The top 0.1 percent"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Under Clinton&#8217;s proposals, <a target=\"_blank\" href = \"https://www.taxpolicycenter.org/taxvox/how-would-clintons-tax-proposals-affect-different-taxpayers\">the top 0.1 percent</a> would see an average tax increase of nearly $520,000. The increase would mostly result from her proposed 4 percent surtax on incomes over $5 million and a &#8220;Buffett rule&#8221; that would impose a minimum tax on people with income over $1 million."
+      },
+      "image": "img/img6.jpg",
+      "number": 6,
+      "prompt": "Which households (grouped by income) would benefit the most from Hillary Clinton&#8217;s tax proposals?"
+    },
+    {
+      "answers": [
+        "1 percent",
+        "50 percent",
+        "75 percent",
+        "100 percent"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "<a target=\"_blank\" href = \"http://www.taxpolicycenter.org/publications/analysis-hillary-clintons-tax-proposals\">The top 1 percent of households</a> <a target=\"_blank\" href = \"http://www.taxpolicycenter.org/model-estimates/secretary-clintons-tax-plan/secretary-clintons-tax-proposals-baseline-current-law-1\">would pay about 78 percent</a> of Clinton&#8217;s proposed tax increases. Low- and middle-income households would also see their taxes go up a little due to Clinton&#8217;s proposed business tax hikes."
+      },
+      "image": "img/img7.jpg",
+      "number": 7,
+      "prompt": "Roughly how much of Clinton&#8217;s total tax increases are paid by the top 1 percent of households?"
+    },
+    {
+      "answers": [
+        "No",
+        "Yes"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Clinton does not propose increasing any current tax rates. <a target=\"_blank\" href = \"http://www.taxpolicycenter.org/taxvox/clinton-and-sanders-take-two-different-paths-taxing-rich\">Instead</a>, she&#8217;d raise taxes with a new 4 percent &#8220;surcharge&#8221; on income over $5 million, create a new minimum tax (the &#8220;Buffett rule&#8221;) on people with income over $1 million, and limit the value of specified tax exemptions and deductions."
+      },
+      "image": "img/img8.jpg",
+      "number": 8,
+      "prompt": "Would Clinton&#8217;s tax plan raise any of the current seven income tax rates?"
+    },
+    {
+      "answers": [
+        "Low-income households",
+        "Middle-income households",
+        "Both low-income and middle-income households",
+        "Only special groups like family caregivers"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Clinton has <a target=\"_blank\" href = \"http://www.taxpolicycenter.org/taxvox/hillary-clinton-would-raise-taxes-high-income-households-11-trillion-over-10-years\">proposed new tax credits</a> for family caregivers and households with high out-of-pocket medical expenses, which would lower taxes for qualifying households. However, the Clinton campaign has promised that the candidate will propose tax cuts for low- and middle-income households later in the campaign."
+      },
+      "image": "img/img9.jpg",
+      "number": 9,
+      "prompt": "Who gets a tax cut under Clinton&#8217;s tax plan?"
+    },
+  ],
+  "title": "Presidential Candidate Quiz",
+  "url": "http://apps-staging.urban.org/features/quick-quiz/"
+}
